@@ -1,0 +1,9 @@
+Flask	
+Jinja2	
+MarkupSafe	
+Werkzeug	
+click	
+itsdangerous	
+pip	
+psycopg2	
+setuptools	
